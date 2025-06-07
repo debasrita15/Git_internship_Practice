@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48c3e5f1-9a2f-4f5d-ac11-c22adf0dd111" name="Changes" comment="" />
+    <list default="true" id="48c3e5f1-9a2f-4f5d-ac11-c22adf0dd111" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q14.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q15.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q16.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q17.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q18.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q19.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q20.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment_June_7/Q1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_June_7/Q1.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +55,31 @@
     "accountId": "265f8fcf-78ea-48f3-a30d-ee0357801ba8"
   }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q1.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q10.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q11.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q12.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q13.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q14.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q15.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q16.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q17.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q18.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q19.kt" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q2.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q20.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q3.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q4.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q5.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q6.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q7.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q8.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q9.kt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -45,6 +92,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.Q10Kt.executor": "Run",
+    "Kotlin.Q11Kt.executor": "Run",
+    "Kotlin.Q12Kt.executor": "Run",
+    "Kotlin.Q13Kt.executor": "Run",
+    "Kotlin.Q15Kt.executor": "Run",
+    "Kotlin.Q16Kt.executor": "Run",
+    "Kotlin.Q17Kt.executor": "Run",
+    "Kotlin.Q18Kt.executor": "Run",
+    "Kotlin.Q19Kt.executor": "Run",
+    "Kotlin.Q1Kt.executor": "Run",
+    "Kotlin.Q20Kt.executor": "Run",
+    "Kotlin.Q2Kt.executor": "Run",
+    "Kotlin.Q3Kt.executor": "Run",
+    "Kotlin.Q4Kt.executor": "Run",
+    "Kotlin.Q5Kt.executor": "Run",
+    "Kotlin.Q6Kt.executor": "Run",
+    "Kotlin.Q7Kt.executor": "Run",
+    "Kotlin.Q8Kt.executor": "Run",
+    "Kotlin.Q9Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -52,6 +118,57 @@
     "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JMC17\Daily_Assignments\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Q1Kt">
+    <configuration name="Q1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment_June_7.Q1Kt" />
+      <module name="Daily_Assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment_June_7.Q2Kt" />
+      <module name="Daily_Assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment_June_7.Q3Kt" />
+      <module name="Daily_Assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment_June_7.Q4Kt" />
+      <module name="Daily_Assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment_June_7.Q5Kt" />
+      <module name="Daily_Assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Q1Kt" />
+        <item itemvalue="Kotlin.Q2Kt" />
+        <item itemvalue="Kotlin.Q3Kt" />
+        <item itemvalue="Kotlin.Q4Kt" />
+        <item itemvalue="Kotlin.Q5Kt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,9 +184,36 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/Main.kt</url>
+          <url>file://$PROJECT_DIR$/.idea/Main.kt</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/Assignment_June_7/Q19.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/Assignment_June_7/Q16.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/Assignment_June_7/Q11.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

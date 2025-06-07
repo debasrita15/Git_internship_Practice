@@ -2,5 +2,6 @@ package Assignment_June_7
 
 fun main()
 {
-      println("Hello world")
+   val shopname = "Starbuzz"
+    println("Welcome to $shopname!")   //Print welcome message
 }
