@@ -5,44 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48c3e5f1-9a2f-4f5d-ac11-c22adf0dd111" name="Changes" comment="Added Assignment_June_8">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_June_8/Q1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_June_8/Q10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_June_8/Q11.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_June_8/Q12.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_June_8/Q13.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_June_8/Q14.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_June_8/Q15.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_June_8/Q2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_June_8/Q3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_June_8/Q4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_June_8/Q5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_June_8/Q6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_June_8/Q7.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_June_8/Q8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_June_8/Q9.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_10/Q1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_10/Q10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_10/Q11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_10/Q12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_10/Q13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_10/Q14.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_10/Q2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_10/Q3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_10/Q4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_10/Q5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_10/Q6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_10/Q7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_10/Q8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_June_10/Q9.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q10Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q11Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q12Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q13Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q14Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q15Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q16Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q17Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q18Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q19Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q1Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q20Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q2Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q3Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q4Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q5Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q6Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q7Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q8Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/Assignment_June_7/Q9Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Daily_Assignments/META-INF/Daily_Assignments.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +50,17 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_10/Q1.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_10/Q10.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_10/Q11.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_10/Q12.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_10/Q2.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_10/Q3.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_10/Q5.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_10/Q6.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_10/Q7.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_10/Q8.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Assignment_June_10/Q9.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q1.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q10.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Assignment_June_7/Q11.kt" root0="SKIP_INSPECTION" />
@@ -114,45 +102,48 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2yAtAByri0Q6twTbySNnTQexKzg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.Q10Kt.executor": "Run",
-    "Kotlin.Q11Kt.executor": "Run",
-    "Kotlin.Q12Kt.executor": "Run",
-    "Kotlin.Q13Kt.executor": "Run",
-    "Kotlin.Q14Kt.executor": "Run",
-    "Kotlin.Q15Kt.executor": "Run",
-    "Kotlin.Q16Kt.executor": "Run",
-    "Kotlin.Q17Kt.executor": "Run",
-    "Kotlin.Q18Kt.executor": "Run",
-    "Kotlin.Q19Kt.executor": "Run",
-    "Kotlin.Q1Kt (1).executor": "Run",
-    "Kotlin.Q1Kt.executor": "Run",
-    "Kotlin.Q20Kt.executor": "Run",
-    "Kotlin.Q2Kt (1).executor": "Run",
-    "Kotlin.Q2Kt.executor": "Run",
-    "Kotlin.Q3Kt (1).executor": "Run",
-    "Kotlin.Q3Kt.executor": "Run",
-    "Kotlin.Q4Kt.executor": "Run",
-    "Kotlin.Q5Kt.executor": "Run",
-    "Kotlin.Q6Kt.executor": "Run",
-    "Kotlin.Q7Kt.executor": "Run",
-    "Kotlin.Q8Kt.executor": "Run",
-    "Kotlin.Q9Kt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/JMC17/Daily_Assignments/src/Main.kt",
-    "settings.editor.selected.configurable": "editor.preferences.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.Q10Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q11Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q12Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q13Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q14Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q15Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q16Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q17Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q18Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q19Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q1Kt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q20Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q2Kt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q3Kt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q3Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q4Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q5Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q6Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q7Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q8Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q9Kt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/JMC17/Daily_Assignments/src/Main.kt&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\JMC17\Daily_Assignments\.idea" />
@@ -160,35 +151,35 @@
   </component>
   <component name="RunManager" selected="Kotlin.Q15Kt">
     <configuration name="Q11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_June_8.Q11Kt" />
+      <option name="MAIN_CLASS_NAME" value="Assignment_June_10.Q11Kt" />
       <module name="Daily_Assignments" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Q12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_June_8.Q12Kt" />
+      <option name="MAIN_CLASS_NAME" value="Assignment_June_10.Q12Kt" />
       <module name="Daily_Assignments" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Q13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_June_8.Q13Kt" />
+      <option name="MAIN_CLASS_NAME" value="Assignment_June_10.Q13Kt" />
       <module name="Daily_Assignments" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Q14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_June_8.Q14Kt" />
+      <option name="MAIN_CLASS_NAME" value="Assignment_June_10.Q14Kt" />
       <module name="Daily_Assignments" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Q15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_June_8.Q15Kt" />
+      <option name="MAIN_CLASS_NAME" value="Assignment_June_10.Q15Kt" />
       <module name="Daily_Assignments" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -262,6 +253,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/Assignment_June_10/Q1.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
